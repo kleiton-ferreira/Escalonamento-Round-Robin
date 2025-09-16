@@ -27,3 +27,20 @@ O objetivo deste projeto é demonstrar o funcionamento do algoritmo de escalonam
  
  ┗ 📜 README.md          # Documentação do projeto
 
+## 📋 Cenário de Simulação
+O simulador é configurado com o seguinte cenário:
+- Processo 1: Tempo total necessário = 10 unidades de tempo
+- Processo 2: Tempo total necessário = 5 unidades de tempo
+- Processo 3: Tempo total necessário = 8 unidades de tempo
+- Quantum: 2 unidades de tempo
+
+## ▶️ Como executar o projeto
+Pré-requisitos
+- Python 3.x instalado
+- PyCharm ou outra IDE/editor de código
+
+Execução
+- Clone o repositório ou baixe os arquivos do projeto
+- Abra o projeto no PyCharm
+- Execute o arquivo main.py
+
