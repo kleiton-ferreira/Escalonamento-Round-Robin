@@ -13,7 +13,7 @@ O objetivo deste projeto é demonstrar o funcionamento do algoritmo de escalonam
 
 ## 🛠️ Tecnologias utilizadas
 - Python 3.x → Linguagem principal do projeto
-- Classes e OOP → Para organização modular do código
+- Classes e POO → Para organização modular do código
 - Módulos padrão Python → Não requer dependências externas
 
 ## 📂 Estrutura do projeto
