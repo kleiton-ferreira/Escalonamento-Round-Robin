@@ -19,6 +19,7 @@ O objetivo deste projeto é demonstrar o funcionamento do algoritmo de escalonam
 ## 📂 Estrutura do projeto
 
 📦 round-robin-simulator
+
  ┣ 📜 process.py         # Classe Process: gerencia os processos e seu estado
  
  ┣ 📜 scheduler.py       # Classe RoundRobinScheduler: implementa o algoritmo
